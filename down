@@ -12,7 +12,6 @@ echo "UnloadTheme" > $XDG_RUNTIME_DIR/leftwm/commands.pipe
 pkill polybar
 pkill compton
 pkill picom
-pkill polybar
 pkill conky
 pkill dunst
 pkill sxhkd
